@@ -9,3 +9,5 @@ Tarsis Lima is based in Rio Claro/SP and has a personal website at https://tarsi
 ## Main projects
 
 [Lottery Game](https://lottery.tarsislima.com/)
+
+[Edge Detection](https://github.tarsislima.com/projects/edge-detection/index.html?date=1)
