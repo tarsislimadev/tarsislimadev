@@ -86,7 +86,7 @@ High School Diploma
 - Projects and demos showcased
 [YouTube](https://www.youtube.com/@tarsislimadev)
 
-## Main projects
+## 🚀 Main projects
 
 [Lottery Game](https://lottery.tarsislima.com/)
 
