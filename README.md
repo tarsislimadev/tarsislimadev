@@ -94,4 +94,6 @@ High School Diploma
 
 [Lottery Game](https://lottery.tarsislima.com/)
 
-[Edge Detection](https://github.tarsislima.com/projects/edge-detection/index.html?date=1)
+[Edge Detection](https://edge.tarsislima.com/)
+
+[Facial Detection](https://facial.tarsislima.com/)
