@@ -16,8 +16,8 @@ Dynamic and results-driven Information Systems Programmer with over 8 years of e
 ## 🌍 Languages
 
 - Portuguese - Native/Fluent  
-- English - Advanced  
-- Spanish - Basic
+- English - Advanced (C1)  
+- Spanish - Basic (B1)
 - German - Basic
 - French - Basic
 
