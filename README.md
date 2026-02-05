@@ -97,3 +97,5 @@ High School Diploma
 [Edge Detection](https://edge.tarsislima.com/)
 
 [Facial Detection](https://facial.tarsislima.com/)
+
+[Translate API](https://github.com/tarsislimadev/translate-api)
