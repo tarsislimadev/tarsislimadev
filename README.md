@@ -94,6 +94,8 @@ High School Diploma
 
 [Lottery Game](https://lottery.tarsislima.com/)
 
+[QR Code](https://qrcode.tarsislima.com/)
+
 [Edge Detection](https://edge.tarsislima.com/)
 
 [Facial Detection](https://facial.tarsislima.com/)
