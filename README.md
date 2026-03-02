@@ -92,9 +92,17 @@ High School Diploma
 
 ## 🚀 Main projects
 
-[Lottery Game](https://lottery.tarsislima.com/)
+[Asteroids Game](https://asteroids.tarsislima.com/)
+
+[Snake Game](https://snake.tarsislima.com/)
+
+[Audio Recorder](https://audio-recorder.tarsislima.com/)
 
 [QR Code](https://qrcode.tarsislima.com/)
+
+## 🎮 Other projects
+
+[Lottery Game](https://lottery.tarsislima.com/)
 
 [Edge Detection](https://edge.tarsislima.com/)
 
