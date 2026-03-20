@@ -112,8 +112,8 @@ High School Diploma
 
 ## What I am doing on [Fatec](#)
 
-[Asteroids @ Introduction to Artificial Inteligence](#)
+[Asteroids @ Introduction to Artificial Inteligence](https://github.com/tarsislimadev/asteroids)
 
-[Cantina @ Structure of Data & Programming Languages](#)
+[Cantina @ Structure of Data & Programming Languages](https://github.com/tarsislimadev/projeto-cantina-fatec)
 
-[YEB Data Validations @ Management of Projects & Execution of Projects](#)
+[YEB Data Validations @ Management of Projects & Execution of Projects](https://github.com/tarsislimadev/validacao_banco_dados_fatec_yeb)
