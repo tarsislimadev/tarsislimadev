@@ -110,7 +110,7 @@ High School Diploma
 
 [Translate API](https://github.com/tarsislimadev/translate-api)
 
-## What I am doing on [Fatec](#)
+## 🚀 Doing on [Fatec](#)
 
 [Asteroids @ Introduction to Artificial Inteligence](https://github.com/tarsislimadev/asteroids)
 
