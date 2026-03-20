@@ -109,3 +109,11 @@ High School Diploma
 [Facial Detection](https://facial.tarsislima.com/)
 
 [Translate API](https://github.com/tarsislimadev/translate-api)
+
+## What I am doing on [Fatec](#)
+
+[Asteroids @ Introduction to Artificial Inteligence](#)
+
+[Cantina @ Structure of Data & Programming Languages](#)
+
+[YEB Data Validations @ Management of Projects & Execution of Projects](#)
