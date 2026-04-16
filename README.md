@@ -119,3 +119,5 @@ High School Diploma
 [YEB Data Validations @ Management of Projects & Execution of Projects](https://github.com/tarsislimadev/validacao_banco_dados_fatec_yeb)
 
 [Facel Recognition @ Introduction to Artificial Inteligence](https://github.com/tarsislimadev/facial-recognition)
+
+[Web Scrapping @ Programming Languages](#)
