@@ -120,4 +120,4 @@ High School Diploma
 
 [Facel Recognition @ Introduction to Artificial Inteligence](https://github.com/tarsislimadev/facial-recognition)
 
-[Web Scrapping @ Programming Languages](#)
+[Web Scrapping @ Programming Languages](https://github.com/orlandosaraivajr/FATEC_1SEM26_LP2/issues/3)
