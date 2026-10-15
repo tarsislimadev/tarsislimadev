@@ -1,4 +1,4 @@
-// 
+// Send message to Telegram API
 
 const {
   NEWS_API_KEY,
@@ -12,7 +12,7 @@ const telegram_url = `https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage`
 
 fetch(newsapi_url)
   .then((response) => response.json())
-  .then((data) => data.articles[0].title)
+  .then((data) => `${data.articles[0].title}\n\n${data.articles[0].url}`)
   .then((title) => {
     fetch(
       telegram_url,
