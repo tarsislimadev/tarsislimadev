@@ -7,13 +7,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Get news
-        run: curl -sSL "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=${NEWS_API_KEY}" | jq '.articles[0]' > ./news.json
+      - name: Send message to Telegram
+        run: node ./index.js
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-
-      - name: Send message
-        run: curl -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" -d chat_id=${TELEGRAM_CHATID} -d text=text # $( cat ./news.json | jq '.title' | sed -e 's/"//ig' )
-        env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHATID: ${{ secrets.TELEGRAM_CHATID }}
