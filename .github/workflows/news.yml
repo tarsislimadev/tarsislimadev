@@ -7,6 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: List files
+        run: ls -la
       - name: Send message to Telegram
         run: node ./index.js
         env:
