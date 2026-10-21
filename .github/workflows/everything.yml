@@ -3,7 +3,7 @@ name: Everything on Telegram
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '40 * * * *'
 
 jobs:
   build:
