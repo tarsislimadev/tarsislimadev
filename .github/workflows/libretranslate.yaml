@@ -20,4 +20,4 @@ jobs:
         run: echo ${{ inputs.QUERY }}
       - name: Translate query
         run: |
-          curl -sSL -X 'POST'   'http://localhost:5000/translate'   -H 'accept: application/json'   -H 'Content-Type: application/x-www-form-urlencoded'   -d 'q=hello+world&source=en&target=pt&format=text&alternatives=1&api_key=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' | jq '.translatedText'
+          curl -sSL -X 'POST'   'http://localhost:5000/translate'   -H 'accept: application/json'   -H 'Content-Type: application/x-www-form-urlencoded'   -d 'q=${{ inputs.QUERY }}&source=en&target=pt&format=text&alternatives=1&api_key=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' | jq '.translatedText'
