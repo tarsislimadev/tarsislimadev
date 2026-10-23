@@ -11,9 +11,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: List files
-        run: ls -la
-      - name: Send message to Telegram
+      - name: Send messages
         run: node ./everything.js
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
